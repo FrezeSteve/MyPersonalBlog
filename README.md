@@ -26,6 +26,7 @@ According to flask [docs](https://www.palletsprojects.com/p/flask/):
 Flask is a lightweight WSGI web application framework. Its easy to use
 and also learn.
 
+
 I will be using both
 flask and [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/) in this project.
 There are so many advantages of using both. Just google around and
@@ -48,5 +49,6 @@ I also incorporated [redux](https://redux.js.org/) as my:
 > Predictable State Container
 
 Play with the code and have fun.
-
+### Social Links
+[Twitter](https://twitter.com/frezesteve), [Facebook](https://www.facebook.com/frisson.steve?ref=bookmarks) and [instagram](https://www.instagram.com/frisson_steve/)
 
