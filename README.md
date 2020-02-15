@@ -11,12 +11,12 @@ Personal Blog made with both React and Flask
 2. In the react folder in the terminal run `npm install` to install the 
 node modules
 3. Run `npm start` to serve your react app on a local server
-4. In the flask folder in the terminal run `flask db init` and also
+4. In the flask folder in the terminal run run `pip3 install -r requirements.txt` to install python
+ modules
+ 5. Change the necessary configurations in the .env file
+ 6. Run `flask db init` and also
  `flask db migrate -m "Initial migration."` to migrate models into
  db
- 5. Change the necessary configurations in the .env file
- 6. Run `pip3 install -r requirements.txt` to install python
- modules
  7. Run `flask run --host 0.0.0.0` to start the flask server
  8. Copy the url on the terminal for the react app and paste on the 
  browser
