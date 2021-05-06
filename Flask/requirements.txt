@@ -7,7 +7,7 @@ cloudinary==1.18.2
 cryptography==2.8
 Faker==2.0.3
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Login==0.4.1
 Flask-Migrate==2.5.2
 Flask-RESTful==0.3.7
